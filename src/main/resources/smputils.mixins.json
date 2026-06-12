@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.riverstone.unknown303.smputils.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "EndCrystalMixin",
+    "ThrownEnderpearlMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
